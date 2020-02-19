@@ -1,6 +1,10 @@
-# Aprendizado em Python
+<h1 align="center">
+  Aprendizado em Python
+</h1>  
 
-Realização de cursos e outros aprendizados em Python.
+<p align="center">
+  Realização de cursos e outros aprendizados em Python
+</p>
 
 ## Cursos:
 
